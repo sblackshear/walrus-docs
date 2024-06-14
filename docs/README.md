@@ -52,7 +52,7 @@ and accessible data storage.
 
 This documentation is split into three parts:
 
-1. _About Walrus_ describes the design and architecture of Walrus.
+1. _Design_ describes the [objectives](./overview/objectives_use_cases.md), [architecture](./overview/overview.md), [operations](./operations.md) [security properties](./overview/properties.md) of Walrus.
 1. _Usage_ provides concrete information for developers. If you want to get started quickly, you can
    jump directly to the [setup chapter](./usage/setup.md).
 1. _Walrus sites_ describes how you can use Walrus and Sui together to build truly decentralized
